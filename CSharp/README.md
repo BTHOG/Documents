@@ -8,7 +8,7 @@ Target Product.
 
 For details, please contact us from [official website][website]  
 
-Because this is sample code, please adjust the parameters according according to setting.
+This is sample code of develpping RAW image data so that it is necessary to adjust the parameters according to sensor settings.
 
 ## Requirement
 
